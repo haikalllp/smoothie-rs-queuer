@@ -1,13 +1,13 @@
 <h1 align="center">
     <!-- yup if i put a line break they're not actually centered =( -->
-    <img src="https://github.com/user-attachments/assets/3f112864-60a0-4fd1-aaf2-255951446e5e" width=100 /> Smoothie Queuer
+    <img src="https://github.com/user-attachments/assets/8ac008ea-58fd-4518-8b6e-007ebf689a8a" width=100 /> Smoothie Queuer
 </h1>
 <p align="center">
     Smoothie Queuer is an add-on GUI for smoothie-rs.
 </p>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ce38e4f5-850c-4dd0-a308-5e1e4c6b9574" width="44.69%" style="margin-right: 10px" />
-    <img src="https://github.com/user-attachments/assets/43557e65-ed8a-4c77-b4f9-35d5bb3509b0" width="45%" style="margin-left: 10px" />
+    <img src="https://github.com/user-attachments/assets/97c248c5-5d8f-4b80-90d8-3bd7985260b7" width="43.76%" style="margin-right: 10px" />
+    <img src="https://github.com/user-attachments/assets/7fbbef69-37fa-4d12-8b19-3bd8436b366c" width="45%" style="margin-left: 10px" />
 </div>
 
 # Smoothie Queuer
@@ -18,7 +18,7 @@ A graphical user interface for managing video processing tasks with the `smoothi
 
 Smoothie Queuer provides a user-friendly GUI for queuing and processing multiple video files using `smoothie-rs`. It streamlines the workflow by allowing drag-and-drop video management, recipe selection, and queue control, all within a visual interface.
 
-https://github.com/user-attachments/assets/6e396c9a-bc84-448a-884d-8954cf0932e1
+[https://github.com/user-attachments/assets/6e396c9a-bc84-448a-884d-8954cf0932e1](https://github.com/user-attachments/assets/c93425d3-2838-4c03-8dcf-a4ded588fb30)
 
 ## Features
 
