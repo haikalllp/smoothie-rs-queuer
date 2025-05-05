@@ -5,6 +5,10 @@ on:
     tags:
       - "v*.*.*"  # Push events to matching v*.*.* (e.g., v1.0.0, v1.2.3)
 
+# Added permissions needed for creating releases
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build and Create Release
