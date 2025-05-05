@@ -1,0 +1,18 @@
+[package]
+name = "smoothie-queuer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26.0"
+egui = "0.26.0"
+rfd = "0.12.0"
+serde = { version = "1.0.197", features = ["derive"] }
+env_logger = "0.11.3"
+winapi = { version = "0.3", features = ["winuser", "windef"] }
+log = "0.4.20"
+opener = "0.6"
+image = { version = "0.24", default-features = false, features = ["png", "ico"] }
+
+[build-dependencies]
+winres = "0.1.12"
